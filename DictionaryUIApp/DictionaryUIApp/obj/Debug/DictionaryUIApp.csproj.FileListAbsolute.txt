@@ -1,0 +1,10 @@
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe.config
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.pdb
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csprojAssemblyReference.cache
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Form1.resources
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Properties.Resources.resources
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csproj.GenerateResource.cache
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csproj.CoreCompileInputs.cache
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.exe
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.pdb
