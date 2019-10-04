@@ -67,6 +67,7 @@
             this.viewAllButton.TabIndex = 2;
             this.viewAllButton.Text = "View All";
             this.viewAllButton.UseVisualStyleBackColor = true;
+            this.viewAllButton.Click += new System.EventHandler(this.viewAllButton_Click);
             // 
             // idTextBox
             // 

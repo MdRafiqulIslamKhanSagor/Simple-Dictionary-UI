@@ -37,8 +37,21 @@ namespace DictionaryUIApp
             if (userDetails.ContainsKey(idSearchTextBox.Text))
             {
 
-                MessageBox.Show("id:" + " " + idSearchTextBox.Text + userDetails[idSearchTextBox.Text]);
+                MessageBox.Show("id:" + " " + idSearchTextBox.Text +"/n"+""+ userDetails[idSearchTextBox.Text]);
             }
+
+            MessageBox.Show(" Please Inter Velid Id");
+        }
+
+        private void viewAllButton_Click(object sender, EventArgs e)
+        {
+            string massage = string.Empty;
+
+            foreach (KeyValuePair<string,string> details in userDetails)
+            {
+                massage = massage + details.Key +" "+ details.Value +"/n";
+            }
+            MessageBox.Show(massage);
         }
     }
 }
